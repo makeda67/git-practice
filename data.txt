@@ -1,0 +1,3 @@
+Name: Aleix
+Age: 21
+Favorite color: Purple
